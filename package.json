@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/hingepath",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hinge and reshape path text streams with deterministic transforms.",
+  "bin": {
+    "hingepath": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/hingepath.git"
+  },
+  "homepage": "https://theworker02.github.io/hingepath/",
+  "keywords": [
+    "hinge",
+    "path",
+    "text",
+    "cli",
+    "toolkit"
+  ]
+}
